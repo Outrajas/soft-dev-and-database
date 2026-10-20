@@ -1,0 +1,3 @@
+
+# Ignore database config with credentials
+backend/eduportal-backend/src/main/java/com/eduportal/config/DatabaseConfig.java
